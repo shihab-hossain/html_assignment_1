@@ -1,0 +1,282 @@
+.titel{
+    background-color: #1A187A;
+    color: white;
+}
+.slid{
+ background-image: url(./FashionQuest-main/FashionQuest-main/resources/v904-nunny-012\ 1.png);
+ background-blend-mode: overlay;
+ background-repeat: no-repeat;
+ background-position: center;
+ background-size: cover;
+ 
+}
+.to-box{
+    display: flex;
+}
+.box{
+    padding-top: 150px;
+    margin-left: 350px;
+}
+.img{
+    width: 300px;
+    /* margin-top: 20px; */
+    /* padding-top: 20px; */
+    margin-left: 200px;
+}
+.bt{
+    background-color: blue;
+    padding: 5px 20px ;
+    border-radius: 10px;
+}
+@media only screen and (max-width:480px){
+    .box{
+        padding-top: 2px;
+        margin-left: 5px;
+    }
+    .img{
+        width: 30px;
+    }
+    .bt{
+        background-color: blue;
+        padding: 3px 10px ;
+        border-radius: 10px;
+    }
+    .sm{
+        color: #1E046A;
+    /* font-family: Montserrat; */
+    font-size: 2px;
+    /* font-style: normal; */
+    font-weight: 10;
+    line-height: 2px;
+    }
+    .tex{
+        color: #000;
+        /* font-family: Montserrat; */
+        font-size: 5px;
+        /* font-style: normal; */
+        font-weight: 5;
+        line-height: 3px; /* 75% */
+        letter-spacing: -0.96px;
+    }
+}
+.sm{
+    color: #1E046A;
+font-family: Montserrat;
+font-size: 25px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.tex{
+    color: #000;
+    font-family: Montserrat;
+    font-size: 96px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 72px; /* 75% */
+    letter-spacing: -0.96px;
+}
+.box-1{
+    display: flex;
+    background-color: aquamarine;
+}
+.img-1{
+    width: 313px;
+    height: 243px;
+    padding-top: 50px;
+    
+}
+.tex-1{
+   padding-top: 20px;
+   padding-bottom: 20px;
+}
+.box-2{
+    display: flex;
+    background-color: skyblue;
+    
+}
+.img-2{
+    width: 400px;
+    height: 300px;
+    padding-right: 30px;
+}
+.app{
+    font-size: 29px;
+    
+font-style: normal;
+font-weight: 300;
+line-height: 40px;
+margin: 0px;
+padding: 0px;
+
+}
+.part-2{
+display: flex;
+background-color: antiquewhite;
+align-items: center;
+}
+.part-container{
+    display: flex;
+    
+}
+.tex-2{
+    padding-left: 35px;
+}
+.itm-container{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+.tex-3{
+    color:black;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px; /* 133.333% */
+    letter-spacing: 0.24px;
+    padding-left: 160px;
+}
+.itm-1{
+    display: flex;
+    gap: 38px;
+    padding-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+.itm-2{
+    background: #EDEDED;
+    border-radius: 15px;
+    padding: 30px;
+    padding-bottom: 10px;
+}
+.itm-3{
+    text-align: center;
+    margin-top: 10px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+}
+.img-4{
+    width: 100px;
+    height: 90px;
+}
+.text-container{
+    display: flex;
+    margin-top: 70px;
+    padding-left: 210px;
+    gap: 30px;
+}
+.arrival{
+    font-weight: 700;
+    border-bottom: 3px solid;
+}
+.new-container{
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    gap: 60px;
+    padding-left: 220px;
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+.img-5{
+    width: 160px;
+    height: 160px;
+    
+}
+.btn-1{
+    background-color: black;
+    padding: 5px 20px ;
+    border-radius: 10px;
+    color: white;
+}
+.new-1{
+    text-align: center;
+    background: #F6F6F6;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    border-radius: 10px;
+    /* position: relative; */
+}
+.love{
+    position: relative;
+    padding-left: 170px;
+    padding-top: 15px;
+}
+.love-1{
+    width: 25px;
+    height: 80px;
+    padding-bottom: 40px;
+}
+.last-container{
+    display: flex;
+    /* justify-content: center; */
+    background: #958AD4;
+    align-items: center;
+    flex-wrap: wrap;
+
+}
+.img-6{
+    width: 250px;
+    height: 300px;
+    /* padding-right: 200px; */
+}
+.img-7{
+    width: 250px;
+    height: 270px;
+
+}
+.tex-4{
+    text-align: center;
+    padding-left: 250px;
+    color: white;
+}
+.spn{
+    font-weight: 1000;
+    
+}
+.spn-1{
+    color: black;
+    margin: 0px;
+    padding: 0px;
+}
+.last-2{
+    padding-left: 340px;
+}
+.footer-container{
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    color: white;
+    gap: 50px;
+    padding-top: 90px;
+    padding-bottom: 60px;
+    padding-right: 300px;
+}
+.icon{
+    display: flex;
+    gap: 25px;
+    padding-left: 50px;
+}
+.footer-1{
+    margin-left: 80px;
+    color: #CFCFCF;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 300;
+line-height: 32px; /* 228.571% */
+}
+.servic{
+    color: var(--Main-White, #FFF);
+font-family: Montserrat;
+font-size: 16px;
+font-style: italic;
+font-weight: 100;
+line-height: 16px; /* 100% */
+}
